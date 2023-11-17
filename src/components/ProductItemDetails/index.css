@@ -1,0 +1,119 @@
+.success-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+.detail-card {
+  display: flex;
+  margin-bottom: 150px;
+}
+.details-product-img {
+  border-radius: 20px;
+  width: 40%;
+  margin-right: 25px;
+}
+.detail-title {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 5vw;
+}
+.rupees {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+}
+.rate-review {
+  display: flex;
+  align-items: center;
+}
+.rate-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #3b82f6;
+  width: 80px;
+  height: 50px;
+  color: #fff;
+  margin-right: 10px;
+}
+.rate {
+  margin-right: 6px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.star {
+  height: 23px;
+}
+.reviews {
+  color: #1e293b;
+  font-size: 25px;
+}
+.para {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.similar-title {
+  color: #171f46;
+  font-size: 27px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.line {
+  height: 2px;
+}
+.count-card {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+.count-btn {
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+  border: 0px;
+  background-color: #fff;
+}
+.icon {
+  height: 25px;
+  width: 30px;
+  color: #616e7c;
+  border-color: #171f46;
+}
+.count {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 25px;
+  margin-right: 35px;
+}
+.add-cart {
+  background-color: #3b82f6;
+  color: #fff;
+  border: 0px;
+  border-radius: 8px;
+  width: 150px;
+  height: 50px;
+  font-size: 15px;
+  font-weight: 500;
+}
+.similar {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+.list {
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}

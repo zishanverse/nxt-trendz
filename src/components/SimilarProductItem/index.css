@@ -1,0 +1,51 @@
+.similar-card {
+  margin-right: 50px;
+  width: 25%;
+}
+.similar-img {
+  width: 100%;
+  border-radius: 10px;
+}
+.similar-title {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.similar-brand {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.similar-price {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+}
+.similar-price-rating {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.similar-rate-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3b82f6;
+  border-radius: 7px;
+  width: 80px;
+  height: 36px;
+}
+.similar-star {
+  height: 30px;
+}
+.similar-rate {
+  color: white;
+  font-weight: 500;
+  font-size: 18px;
+  margin-right: 5px;
+}
